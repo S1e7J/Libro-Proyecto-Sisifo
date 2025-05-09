@@ -2,4 +2,5 @@
 \contentsline {chapter}{Prefácio}{\es@scroman {iii}}{chapter*.1}%
 \contentsline {chapter}{\numberline {I}Bitacora}{1}{chapter.1}%
 \contentsline {section}{\numberline {I.1}Primer Dia: Sisifo Observa la Montaña}{1}{section.1.1}%
-\contentsline {chapter}{\numberline {II}Primer Capitulo}{3}{chapter.2}%
+\contentsline {section}{\numberline {I.2}A veces avanzar se ve pequeño}{3}{section.1.2}%
+\contentsline {chapter}{\numberline {II}Primer Capitulo}{4}{chapter.2}%
